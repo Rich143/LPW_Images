@@ -7,4 +7,5 @@ Richard/12, Eyes closed, camera far away
 Richard/13, Eyes open, camera far away
 Richard/14, Eyes open, camera far away and moved around
 Richard/15, Eyes closed, camera far away and moved around
+Richard/16, Eyes open, camera far away and moved around
 Tanner/5, Some blinking, camera on headset somewhat far away
